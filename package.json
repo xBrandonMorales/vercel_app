@@ -1,0 +1,13 @@
+{
+    "name": "mi-app",
+    "version": "1.0.0",
+    "description": "Aplicación web para práctica de CI/CD con GitHub Actions y Vercel",
+    "main": "script.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^29.7.0"
+    }
+  }
+  
