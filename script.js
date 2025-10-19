@@ -1,5 +1,5 @@
 function mostrarMensaje() {
-    document.getElementById("mensaje").textContent = "✅ Integración continua funcionando correctamente.";
+    document.getElementById("mensaje").textContent = "✅ La integracion se a completado.";
   }
   
   // Exportar la función para pruebas
